@@ -1,0 +1,27 @@
+27-01-2023 18:28:40 - main - INFO - <module> - Start program
+27-01-2023 18:28:49 - user_interfase - INFO - menu_calc - Start menu calc. With rational.
+27-01-2023 18:29:06 - user_interfase - INFO - menu_divisions - Start menu divisions.
+27-01-2023 18:29:16 - user_interfase - INFO - menu_divisions - Stop divisions menu
+27-01-2023 18:29:22 - user_interfase - INFO - menu_calc - Стоп
+27-01-2023 18:29:26 - user_interfase - INFO - menu - Остановить программу.
+27-01-2023 18:31:33 - main - INFO - <module> - Start program
+27-01-2023 18:31:38 - user_interfase - INFO - menu_calc - Start menu calc. With complex.
+27-01-2023 18:31:49 - user_interfase - INFO - menu_calc - Mult: (2+4j) * (5+4j) = (-6+28j)
+27-01-2023 18:34:49 - user_interfase - INFO - menu_calc - Стоп
+27-01-2023 18:34:51 - user_interfase - INFO - menu - Остановить программу.
+27-01-2023 18:34:53 - main - INFO - <module> - Start program
+27-01-2023 18:35:00 - user_interfase - INFO - menu_calc - Start menu calc. With complex.
+27-01-2023 18:35:09 - user_interfase - INFO - menu_calc - Sqrt: (2+4j) = (1.7989074399478673+1.1117859405028423j)
+27-01-2023 18:36:23 - user_interfase - INFO - menu_calc - Mult: (2+1j) * (4+1j) = (7+6j)
+27-01-2023 18:36:50 - user_interfase - INFO - menu_calc - Mult: (2+4j) * (1+4j) = (-14+12j)
+27-01-2023 18:36:51 - user_interfase - INFO - menu_calc - Стоп
+27-01-2023 18:36:52 - user_interfase - INFO - menu - Остановить программу.
+27-01-2023 18:37:07 - main - INFO - <module> - Start program
+27-01-2023 18:37:11 - user_interfase - INFO - menu_calc - Start menu calc. With complex.
+27-01-2023 18:37:22 - user_interfase - INFO - menu_calc - Mult: (2+4j) * (5+4j) = (-6+28j)
+27-01-2023 18:37:33 - user_interfase - INFO - menu_calc - Sum: (2+4j) + (5+6j) = (7+10j)
+27-01-2023 18:37:40 - user_interfase - INFO - menu_calc - Div: (4+5j) / (4+4j) = (1.125+0.125j)
+27-01-2023 18:37:47 - user_interfase - INFO - menu_calc - Pow: (4+5j) ^ (2+4j) = (-1.1141371906138107+0.23226033311851196j)
+27-01-2023 18:38:06 - user_interfase - WARNING - menu_calc - Выбрано неверно.
+27-01-2023 18:38:19 - excep - WARNING - check_in_one - Incorrect data entered: '-', '7'!
+27-01-2023 18:39:39 - user_interfase - INFO - menu_calc - Sqrt: (2+4j) = (1.7989074399478673+1.1117859405028423j)
